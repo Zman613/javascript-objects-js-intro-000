@@ -1,5 +1,5 @@
 var playlist = {
-  Leonard Cohen: "Hallelujah"
+  leonardCohen: "Hallelujah"
 }
 
 function updatePlaylist(plst, artist, song){
